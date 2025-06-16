@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "name": "jsrepo",
+  "dependencies": {
+    "@azure-rest/ai-inference": "^1.0.0-beta.6",
+    "dotenv": "^16.5.0"
+  }
+}
