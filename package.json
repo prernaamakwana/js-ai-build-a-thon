@@ -4,5 +4,11 @@
   "dependencies": {
     "@azure-rest/ai-inference": "^1.0.0-beta.6",
     "dotenv": "^16.5.0"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.0"
+  },
+  "scripts": {
+    "start": "concurrently \"npm --prefix packages/webapi start\" \"npm --prefix packages/webapp run dev\""
   }
 }
