@@ -507,7 +507,8 @@ Here are some additional resources to help you learn more about building AI agen
 
 Here’s my AI Agent in action:
 
-![agent-response](https://github.com/user-attachments/assets/c0886c4b-7bb8-466e-807e-c8b4c70883e1)
+![agent-response](./agent-response.png)
+
 
 
 GitHub Repo: https://github.com/prernaamakwana/js-ai-build-a-thon
