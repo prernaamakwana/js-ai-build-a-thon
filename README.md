@@ -501,3 +501,13 @@ Here are some additional resources to help you learn more about building AI agen
 - [Build with the AI Foundry JavaScript SDK](https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/sdk-overview?pivots=programming-language-javascript)
 
 
+---
+
+## ✅ Quest 6 Submission - I want to build an AI Agent
+
+Here’s my AI Agent in action:
+
+![agent-response](https://github.com/user-attachments/assets/c0886c4b-7bb8-466e-807e-c8b4c70883e1)
+
+
+GitHub Repo: https://github.com/prernaamakwana/js-ai-build-a-thon
